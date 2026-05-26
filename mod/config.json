@@ -1,0 +1,6 @@
+{
+  "enableScanner": true,
+  "enableCompass": true,
+  "enableNavigation": true,
+  "overlayOpacity": 0.85
+}
