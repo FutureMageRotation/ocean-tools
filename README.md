@@ -71,3 +71,31 @@ Subnautica 2 mod, Subnautica 2 tools, exploration mod, underwater utility mod, o
 # License
 
 MIT License
+
+---
+
+# Community
+
+Ocean Tools is actively updated for Subnautica 2 players who enjoy exploration-focused gameplay and immersive underwater survival experiences.
+
+---
+
+# Future Updates
+
+- Advanced scanner overlay
+- Deep ocean navigation tools
+- Improved utility interface
+- Performance optimizations
+- Expanded exploration systems
+
+---
+
+# Release Status
+
+Current Version: `v1.0.0 Stable`
+
+---
+
+# Download
+
+Latest release is available in the Releases section of this repository.
