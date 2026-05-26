@@ -14,10 +14,10 @@ Ocean Tools is a lightweight Subnautica 2 enhancement mod focused on exploration
 
 <p align="center">
 
-<img src="https://img.shields.io/github/downloads/YOURNAME/ocean-tools/total?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/YOURNAME/ocean-tools?style=for-the-badge">
-<img src="https://img.shields.io/github/v/release/YOURNAME/ocean-tools?style=for-the-badge">
-<img src="https://img.shields.io/github/license/YOURNAME/ocean-tools?style=for-the-badge">
+<img src="https://img.shields.io/github/downloads/FutureMageRotation/ocean-tools/total?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/FutureMageRotation/ocean-tools?style=for-the-badge">
+<img src="https://img.shields.io/github/v/release/FutureMageRotation/ocean-tools?style=for-the-badge">
+<img src="https://img.shields.io/github/license/FutureMageRotation/ocean-tools?style=for-the-badge">
 
 </p>
 
