@@ -1,0 +1,7 @@
+bin/
+build/
+temp/
+cache/
+logs/
+*.tmp
+*.log
